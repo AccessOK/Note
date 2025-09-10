@@ -1,4 +1,4 @@
-package fundamentals.completableFutures;
+package completableFutures;
 
 public class SharedResource implements Runnable{
     /**

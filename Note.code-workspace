@@ -4,5 +4,7 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"java.jdt.ls.java.home": "D:\\Program Files\\Java\\jdk-21"
+	}
 }

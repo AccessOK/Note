@@ -1,4 +1,4 @@
-package streams
+package streams;
 
 import java.io.IOException;
 import java.nio.file.Files;
