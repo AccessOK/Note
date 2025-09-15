@@ -4,6 +4,8 @@
 
 主要操作系统：win11,linux
 主要jdk版本：8,11,17,21,24
+主要python版本：python3.7 python3.8
+
 
 ## cursor 环境配置setting.json
 
