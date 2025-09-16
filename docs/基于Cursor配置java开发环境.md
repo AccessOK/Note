@@ -1,11 +1,10 @@
-# 基于Cursor配置java开发环境
+# 基于Cursor配置java、python等开发环境
 
 ## 多版本多系统cursor不同语言配置
 
 主要操作系统：win11,linux
 主要jdk版本：8,11,17,21,24
 主要python版本：python3.7 python3.8
-
 
 ## cursor 环境配置setting.json
 
@@ -21,5 +20,4 @@
 
 根据语言安装不同的插件
 
-根据具体不同的项目，配置具体的语言运行环境版本。由各项目具体负责。
-
+根据具体不同的项目，配置具体的语言运行环境版本。由各项目具体负责。例如不同项目配置不同版本的jdk由“Language supprot for java”支持。
