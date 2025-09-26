@@ -1,3 +1,9 @@
 [submodule "java-basic"]
 	path = java-basic
 	url = git@github.com:AccessOK/java-basic.git
+[submodule "blog"]
+	path = blog
+	url = git@github.com:AccessOK/blog.git
+[submodule "leetcode-java"]
+	path = leetcode-java
+	url = git@github.com:AccessOK/leetcode-java.git
