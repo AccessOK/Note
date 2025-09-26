@@ -7,3 +7,6 @@
 [submodule "leetcode-java"]
 	path = leetcode-java
 	url = git@github.com:AccessOK/leetcode-java.git
+[submodule "meetting"]
+	path = meetting
+	url = git@github.com:AccessOK/meetting.git

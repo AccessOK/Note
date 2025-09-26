@@ -1,7 +1,8 @@
 {
     "java.project.sourcePaths": [
+        "java-basic/src/fundamentals",
         "java-basic/src/advanced",
-        "java-basic/src/fundamentals"
+        "leetcode-java"
     ],
     "java.project.referencedLibraries": []
 }
